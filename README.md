@@ -287,15 +287,15 @@ The following rules also apply:
  
 
 ### The World
-It is also suggested that the change be made in the name of the set Z. It really defines the whole human family (the world). It is thus suggested that it be called World.
+It is also suggested that the change be made in the name of the set Z. It really defines the whole human family (the world). It is thus suggested that it be called World.n
 
 
 **[⬆ back to top](#table-of-contents)**
 
 ## Implementations
-Implementations                |   ...
------------------------------- | -------------------------
-Node_FRBAC                     | [ ]  
+Implementations                                   |   ...
+------------------------------------------------- | -------------------------
+[Node_FRBAC](https://github.com/csyma/node-FRBAC) | [ ]  
 
 **[⬆ back to top](#table-of-contents)**
 
