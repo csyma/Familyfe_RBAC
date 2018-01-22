@@ -276,10 +276,18 @@ You may also reach us at freebookcenter@gospelsounders.com or freebookcenter@gma
 We do not deny that other people may have implemented an access control method similar to FRBAC and that this may in fact be a duplication of effort, but we find so much beauty in the family that we are compeled to develop this access control method and to call it familyfe (family life) RBAC. 
 
 ### The Family
+In implementing familyfe the following are suggested:
+- In the definitions [1] to [10] the set A of users is called an organization. But like an organization, a family also consists of many people. So a change should be made in the definition of A so that the group of users that forms the set A is called a family. 
+- A person can belong to more than one family (a father in one, a child in another, cousin in another, etc).
 
+The following rules also apply:
+- A person must belong to atleast one family.
+- A family must have members
+- Resources are owned by families
+ 
 
 ### The World
-Resources
+It is also suggested that the change be made in the name of the set Z. It really defines the whole human family (the world). It is thus suggested that it be called World.
 
 
 **[⬆ back to top](#table-of-contents)**
